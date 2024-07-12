@@ -96,5 +96,5 @@ crop_rois <- function(path_to_data,
                 cat("\n")
         }
         cat("\nPlin!!\n")
-        cat("Your ROIs are ready")
+        cat("Your ROIs are ready\n")
 }
